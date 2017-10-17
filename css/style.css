@@ -1,0 +1,98 @@
+@charset "utf-8";
+#bannerSwiper {
+    width: 7.4rem;
+    margin-top: 0.05rem;
+    margin-bottom: 0.3rem;
+}
+#bannerSwiper .swiper-pagination-bullet {
+    background-color: #fff;
+    opacity: 0.5;
+    margin: 0 2px;
+}
+#bannerSwiper .swiper-pagination-bullet-active {
+    background-color: #0086ce;
+}
+#bannerSwiper .swiper-pagination.swiper-pagination-bullets {
+    bottom: 0.15rem;
+    padding-right: 0.2rem;
+    text-align: right;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.swiper-slide a {
+    display: block;
+}
+.swiper-slide a img {
+    display: block;
+    width: 7.4rem;
+}
+.kd-item {
+    margin-bottom: 0.7rem;
+    padding: 0 0.2rem;
+}
+.kd-title {
+    height: 0.3rem;
+    width: 100%;
+    margin-bottom: 0.6rem;
+    background-image: url("../images/title_01.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 7.5rem 1.2rem;
+}
+.kd-content .icon {
+    display: flex;
+    display: -webkit-flex;
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.kd-content .icon i {
+    width: 0.8rem;
+    height: 0.8rem;
+    margin-bottom: 0.2rem;
+    background-image: url("../images/icon_01.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 3.2rem 3.2rem;
+}
+.kd-content .icon span {
+    font-size: 0.24rem;
+    color: #333333;
+}
+.kd-content .icon i.icon_01 {
+    background-position: 0 0;
+}
+.kd-content .icon i.icon_02 {
+    background-position: -0.8rem 0;
+}
+.kd-content .icon i.icon_03 {
+    background-position: -1.6rem 0;
+}
+.kd-content .icon i.icon_04 {
+    background-position: -2.4rem 0;
+}
+.kd-content .icon i.icon_05 {
+    background-position: 0 -0.8rem;
+}
+.kd-content .icon i.icon_06 {
+    background-position: -0.8rem -0.8rem;
+}
+.kd-content .icon i.icon_07 {
+    background-position: -1.6rem -0.8rem;
+}
+.kd-content .icon i.icon_08 {
+    background-position: 0 -1.6rem;
+}
+.kd-content .icon i.icon_09 {
+    background-position: -0.8rem -1.6rem;
+}
+.kd-content .icon i.icon_10 {
+    background-position: -1.6rem -1.6rem;
+}
+.kd-content .icon i.icon_11 {
+    background-position: 0 -2.4rem;
+}
+.kd-content .icon i.icon_12 {
+    background-position: -0.8rem -2.4rem;
+}
