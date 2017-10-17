@@ -44,8 +44,15 @@
     display: -webkit-flex;
     width: 25%;
     justify-content: center;
-    align-items: center;
+    
+    
+}
+.kd-content .icon a {
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
     flex-direction: column;
+    align-items: center;
 }
 .kd-content .icon i {
     width: 0.8rem;
@@ -95,4 +102,16 @@
 }
 .kd-content .icon i.icon_12 {
     background-position: -0.8rem -2.4rem;
+}
+.kd-title_01 {
+    background-position: 0 0;
+}
+.kd-title_02 {
+    background-position: 0 -0.3rem;
+}
+.kd-title_03 {
+    background-position: 0 -0.6rem;
+}
+.kd-title_04 {
+    background-position: 0 -0.9rem;
 }
