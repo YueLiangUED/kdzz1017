@@ -7,8 +7,8 @@
 
 $(document).ready(function(){
     var mySwiper = new Swiper ('#bannerSwiper', {
-        loop: true,
-        autoplay: 2000,
-        pagination: '.swiper-pagination'
+        // loop: true,
+        // autoplay: 2000,
+        // pagination: '.swiper-pagination'
     })        
 });
