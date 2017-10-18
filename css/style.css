@@ -58,50 +58,49 @@
     width: 0.8rem;
     height: 0.8rem;
     margin-bottom: 0.2rem;
-    background-image: url("../images/icon_01.png");
     background-repeat: no-repeat;
     background-position: left top;
-    background-size: 3.2rem 3.2rem;
+    background-size: 100% 100%;
 }
 .kd-content .icon span {
     font-size: 0.24rem;
     color: #333333;
 }
 .kd-content .icon i.icon_01 {
-    background-position: 0 0;
+    background-image: url("../images/icon_01.png");
 }
 .kd-content .icon i.icon_02 {
-    background-position: -0.8rem 0;
+    background-image: url("../images/icon_02.png");
 }
 .kd-content .icon i.icon_03 {
-    background-position: -1.6rem 0;
+    background-image: url("../images/icon_03.png");
 }
 .kd-content .icon i.icon_04 {
-    background-position: -2.4rem 0;
+    background-image: url("../images/icon_04.png");
 }
 .kd-content .icon i.icon_05 {
-    background-position: 0 -0.8rem;
+    background-image: url("../images/icon_05.png");
 }
 .kd-content .icon i.icon_06 {
-    background-position: -0.8rem -0.8rem;
+    background-image: url("../images/icon_06.png");
 }
 .kd-content .icon i.icon_07 {
-    background-position: -1.6rem -0.8rem;
+    background-image: url("../images/icon_07.png");
 }
 .kd-content .icon i.icon_08 {
-    background-position: 0 -1.6rem;
+    background-image: url("../images/icon_08.png");
 }
 .kd-content .icon i.icon_09 {
-    background-position: -0.8rem -1.6rem;
+    background-image: url("../images/icon_09.png");
 }
 .kd-content .icon i.icon_10 {
-    background-position: -1.6rem -1.6rem;
+    background-image: url("../images/icon_10.png");
 }
 .kd-content .icon i.icon_11 {
-    background-position: 0 -2.4rem;
+    background-image: url("../images/icon_11.png");
 }
 .kd-content .icon i.icon_12 {
-    background-position: -0.8rem -2.4rem;
+    background-image: url("../images/icon_12.png");
 }
 .kd-title_01 {
     background-position: 0 0;
