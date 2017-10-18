@@ -43,9 +43,7 @@
     display: flex;
     display: -webkit-flex;
     width: 25%;
-    justify-content: center;
-    
-    
+    justify-content: center; 
 }
 .kd-content .icon a {
     display: flex;
@@ -62,7 +60,14 @@
     background-position: left top;
     background-size: 100% 100%;
 }
+.kd-item.span_02 .kd-content .icon span {
+    margin-top: 0.13rem;
+}
+.kd-item.span_02 .kd-content .icon span.nmt {
+    margin-top: 0;
+}
 .kd-content .icon span {
+    line-height: 1.5em;
     font-size: 0.24rem;
     color: #333333;
 }
@@ -101,6 +106,9 @@
 }
 .kd-content .icon i.icon_12 {
     background-image: url("../images/icon_12.png");
+}
+.kd-content .icon i.icon_13 {
+    background-image: url("../images/icon_13.png");
 }
 .kd-title_01 {
     background-position: 0 0;
